@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Frank</h1>
-<h3 align="center">A passionat Student,From Herts Universersity</h3>
+<h1 align="center">Hi, I'm Frank</h1>
+<h3 align="center">A passionat Student, From Herts Universersity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfrank34&label=Profile%20views&color=0e75b6&style=flat" alt="mfrank34" /> </p>
 
-- 🔭 I’m currently working on [DiggyNet](https://github.com/mFrank34/DiggyNet)
+- I’m currently working on [DiggyNet](https://github.com/mFrank34/DiggyNet)
 
-- 🌱 I’m currently learning **FastAPI, ROS2 Humble**
+- I’m currently learning **FastAPI, ROS2 Humble**
 
 - Final Year Project at University [Life](https://github.com/mFrank34/Life)
 
-- 💬 Ask me about **C++, Python, Container's and HomeLab Development**
+- Ask me about **C++, Python, Container's and HomeLab Development**
 
-- 📫 How to reach me **mffranks34@gmail.com**
+- How to reach me **mffranks34@gmail.com**
 
-- ⚡ Fun fact **did you know that python stucks at OOP?**
+- Fun fact **did you know that python stucks at OOP?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
