@@ -2,7 +2,6 @@ Hi 👋 My name is Michael Franks
 ===
 
 University Student in Computer Science
----
 
 I've been fascinated by computers since I was a child, always curious about how they work and interact. Over the years, I've built countless projects, both through my coursework and personal experiments. My main interests lie in game development, algorithms, and software design.
 
