@@ -41,8 +41,9 @@ I've been fascinated by computers since I was a child, always curious about how 
 
 ## 🌐 Socials
 
-<p align="left">
-<a href="https://www.github.com/mFrank34" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></picture></a>&nbsp;<a href="https://www.linkedin.com/in/michael-franks-706b02220" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></picture></a>&nbsp;<a href="https://discord.com/users/mfranks" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></picture></a>
-</p>
+### 🌐 Socials
 
-<a href="https://www.github.com/mFrank34" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/mFrank34?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+[![GitHub](https://img.shields.io/badge/GitHub-mFrank34-181717?style=for-the-badge&logo=github)](https://github.com/mFrank34)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael_Franks-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-franks-706b02220)
+[![Discord](https://img.shields.io/badge/Discord-mfranks-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/mfranks)
+[![Email](https://img.shields.io/badge/Email-mffranks34@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:mffranks34@gmail.com)
