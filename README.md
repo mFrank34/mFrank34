@@ -6,18 +6,18 @@ University Student in Computer Science
 --------------------------------------
 
 
-I've been fascinated by computers since I was a child, always curious about how they work and interact. Over the years, I've built countless projects, both through my coursework and personal experiments. My main interests lie in game development, algorithms, and software design.
+I've been fascinated by computers since I was a child, always curious about how they work and interact. Over the years, I've built countless projects, both through my coursework and personal experiments. My main interests lie in software development / design, algorithms, and like to challange my self with learning new skills and frameworks. most favoute lanaguge is CPP/C++ due to it nature with low level compute, so enjoy building faster, and low level application.
 
-I enjoy learning new technologies and constantly challenge myself to improve my coding skills. Feel free to explore my repositories and see my work — I’d love to connect with others who share my passion for coding!
+I enjoy learning new technologies and constantly challenge myself to improve my coding skills. Feel free to explore my repositories and see my work.
+I’d love to connect with others who share my passion for coding!
 
 ---
 
 *   🌍  I'm based in united kingdom
 *   ✉️  You can contact me at [mffranks34@gmail.com](mailto:mffranks34@gmail.com)
-*   🚀  I'm currently working on [DiggyNet](http://github.com/mFrank34/DiggyNet)
-*   🧠  I'm currently learning FastAPI and ROS2 Humble and SQLite
-*   👥  I'm looking to collaborate on DiggyNet
-*   💬  Ask me about Look at my final year project Life - A simulation frame work
+*   🚀  I'm currently working on [Atlas] (http://github.com/mFrank34/Atlas)
+*   🧠  I'm currently learning Rust and Frameword QT
+*   💬  Ask me about the different project or look at my most invested project [Life] (http://github.com/mFrank34/Life)
 
 ---
 
