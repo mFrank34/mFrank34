@@ -39,8 +39,6 @@ I've been fascinated by computers since I was a child, always curious about how 
 
 ---
 
-## 🌐 Socials
-
 ### 🌐 Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-mFrank34-181717?style=for-the-badge&logo=github)](https://github.com/mFrank34)
