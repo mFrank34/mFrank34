@@ -44,4 +44,4 @@ I've been fascinated by computers since I was a child, always curious about how 
 [![GitHub](https://img.shields.io/badge/GitHub-mFrank34-181717?style=for-the-badge&logo=github)](https://github.com/mFrank34)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael_Franks-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-franks-706b02220)
 [![Discord](https://img.shields.io/badge/Discord-mfranks-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/mfranks)
-[![Email](https://img.shields.io/badge/Email-mffranks34@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:mffranks@pm.me)
+[![Email](https://img.shields.io/badge/Email-mffranks@pm.me-EA4335?style=for-the-badge&logo=gmail)](mailto:mffranks@pm.me)
