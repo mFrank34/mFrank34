@@ -13,10 +13,10 @@
 I've been fascinated by computers since I was a child, always curious about how they work. I love software development, algorithms, and challenging myself with new skills and frameworks. My favourite language is **C++** — I enjoy building fast, low-level applications.
 
 - 🌍 Based in the **United Kingdom**
-- 🚀 Currently working on **[Atlas](https://github.com/mFrank34/Atlas)**
-- 🧠 Currently learning **Rust** and **Qt Framework**
+- 🚀 Currently working on **[Mini Redis]((https://github.com/mFrank34/mini-redis))**
+- 🧠 Currently learning **Fastapi** and **Qt Framework**
 - 💬 Check out my most invested project: **[Life](https://github.com/mFrank34/Life)**
-- ✉️ Reach me at [mffranks34@gmail.com](mailto:mffranks34@gmail.com)
+- ✉️ Reach me at [mffranks@pm.me](mailto:mffranks@pm.me)
 
 ---
 
@@ -44,4 +44,4 @@ I've been fascinated by computers since I was a child, always curious about how 
 [![GitHub](https://img.shields.io/badge/GitHub-mFrank34-181717?style=for-the-badge&logo=github)](https://github.com/mFrank34)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael_Franks-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-franks-706b02220)
 [![Discord](https://img.shields.io/badge/Discord-mfranks-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/mfranks)
-[![Email](https://img.shields.io/badge/Email-mffranks34@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:mffranks34@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mffranks34@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:mffranks@pm.me)
