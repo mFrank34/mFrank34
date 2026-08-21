@@ -14,7 +14,7 @@ I've been fascinated by computers since I was a child, always curious about how 
 
 - 🌍 Based in the **United Kingdom**
 - 🚀 Currently working on **[Mini Redis]((https://github.com/mFrank34/mini-redis))**
-- 🧠 Currently learning **Fastapi** and **Qt Framework**
+- 🧠 Currently learning **Golang** and **Qt Framework**
 - 💬 Check out my most invested project: **[Life](https://github.com/mFrank34/Life)**
 - ✉️ Reach me at [mffranks@pm.me](mailto:mffranks@pm.me)
 
