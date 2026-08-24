@@ -10,11 +10,11 @@
 
 ## 🙋 About Me
 
-I've been fascinated by computers since I was a child, always curious about how they work. I love software development, algorithms, and challenging myself with new skills and frameworks. My favourite language is **C++** — I enjoy building fast, low-level applications.
+I've been fascinated by computers since I was a kid, always curious about how they work. I love software development, algorithms, and challenging myself with new skills and frameworks. My favorite language is **C++** — I enjoy building fast, low-level applications, while understanding the underling system of web and application between day-to-day systems.
 
 - 🌍 Based in the **United Kingdom**
-- 🚀 Currently working on **[Mini Redis]((https://github.com/mFrank34/mini-redis))**
-- 🧠 Currently learning **Golang** and **Qt Framework**
+- 🚀 Currently working on **[CC-Robot-Project](https://github.com/mFrank34/CC-Robot-Project)**
+- 🧠 Currently learning **Golang** and ****
 - 💬 Check out my most invested project: **[Life](https://github.com/mFrank34/Life)**
 - ✉️ Reach me at [mffranks@pm.me](mailto:mffranks@pm.me)
 
