@@ -34,3 +34,12 @@ to help improve my skills and understandings, love to solve intresting problems 
 ## 📥 Contact
 
 I'm welcome for you reach out and talk to me via email <mffranks@pm.me> or [Linkedin](https://www.linkedin.com/in/mfranks34/)
+
+--- 
+
+> “Keep moving forward" - Wilbur Robinson
+
+<!---
+Are you aware of me, or am I aware of you before or after you read this and thought a thing about me? Are you conscious,
+or a creation outside of consciousness? -- from [kwame-mintah](https://github.com/kwame-mintah)
+--->
