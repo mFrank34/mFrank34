@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Michael Franks</h1>
+<h1 align="center">Hey 👋 I'm Frank</h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Computer+Science+Student;C%2B%2B+%26+Low-Level+Enthusiast;Always+Learning+Something+New">
@@ -8,13 +8,11 @@
 
 ## Portfolio
 
-Chechout my Portfolio Webstie to understand little bit about me and my projects / blogs around my learning.
-
-[Portfolio](https://www.frankslab.uk)
+Chechout my [Portfolio](https://www.frankslab.uk) to understand little bit about me and my projects / blogs around my learning.
 
 ## 🙋 About Me
 
-I'm Frank, a software Engineer who like to work on different project from backend to full stack applicaton, currenty working as **Repair Technician** but now since i've completed my studies, now looking to brawden my skills by working on open source projects and side projects
+A software Engineer who like to work on different project from backend to full stack applicaton, currenty working as **Repair Technician** but now since i've completed my studies, now looking to brawden my skills by working on open source projects and side projects
 to help improve my skills and understandings, love to solve intresting problems and like backend development or creating a home lab environmnet
 
 - 🌍 Based in the **United Kingdom**
