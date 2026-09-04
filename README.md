@@ -8,7 +8,7 @@
 
 ## Portfolio
 
-Chechout my [Portfolio](https://www.frankslab.uk) to understand little bit about me and my projects / blogs around my learning.
+Chechout my [Portfolio](https://www.frankslab.uk) to get to know me and my projects.
 
 ## 🙋 About Me
 
